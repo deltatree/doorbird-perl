@@ -1,16 +1,11 @@
 # doorbird-perl
 Perl command line tool for doorbird: info, check, snapshot, streamWithSnapshot
 
-################################################################################################
-# 
-# Usage:
-#   perl doorbird.pl {confFile} {deviceid} --info
-#   perl doorbird.pl {confFile} {deviceid} --dumpPic {targetDirectory}
-#   perl doorbird.pl {confFile} {deviceid} --check
-#   perl doorbird.pl {confFile} {deviceid} --listenAndDumpPics {targetDirectory}
-# 
-# 
-################################################################################################
+ Usage:
+   perl doorbird.pl {confFile} {deviceid} --info
+   perl doorbird.pl {confFile} {deviceid} --dumpPic {targetDirectory}
+   perl doorbird.pl {confFile} {deviceid} --check
+   perl doorbird.pl {confFile} {deviceid} --listenAndDumpPics {targetDirectory}
 
 {confFile}
 structure of one line 
